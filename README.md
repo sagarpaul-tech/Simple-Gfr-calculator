@@ -1,5 +1,16 @@
 # Simple-Gfr-calculator
-it is a calculator to calculate gfr(Glomerular filtration rate)level using age, weight, createnin.
-Inputs - 1.Age (in Year)
-         2.Weight (in KG)
-         3.Createnin 
+
+A lightweight and beginner‑friendly project that calculates Glomerular Filtration Rate (GFR) using standard medical formulas. This tool was created for educational and DMLT‑related learning purposes.
+
+
+---
+
+📌 Features
+
+Calculate GFR easily
+
+Beginner‑friendly code structure
+
+Works with common formulas like MDRD or CKD‑EPI (depending on your implementation)
+
+Simple input/output for quick usage
